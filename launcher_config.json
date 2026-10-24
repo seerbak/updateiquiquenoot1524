@@ -1,6 +1,5 @@
-
 {
-	"clientVersion": "15.30.701542",
+	"clientVersion": "15.30.2610240438",
 	"launcherVersion": "2.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -9,12 +8,10 @@
 		},
 		{
 			"name": "storeimages"
-		},
-		{
-			"name": "bin"
 		}
 	],
 	"clientFolder": "Tibia",
 	"newClientUrl" : "https://github.com/seerbak/updateiquiquenoot1524/releases/download/V1524/Tibia.zip",
 	"clientExecutable": "client.exe"
 }
+
