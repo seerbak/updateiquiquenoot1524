@@ -1,5 +1,5 @@
 {
-	"clientVersion": "15.30.27102548",
+	"clientVersion": "15.30.2611051425",
 	"launcherVersion": "2.1",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -12,6 +12,5 @@
 	],
 	"clientFolder": "Tibia",
 	"newClientUrl" : "https://github.com/seerbak/updateiquiquenoot1524/releases/download/V1524/Tibia.zip",
-	"clientExecutable": "client.exe"
+	"clientExecutable": "iqqclient.exe"
 }
-
